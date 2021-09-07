@@ -1,0 +1,80 @@
+body{
+	background-color: #04FAB4;
+}
+header{
+	font-family: 'Comic Neue', cursive;
+	font-size: 30px;
+	text-align: center;
+	background-color: #FA049D;
+}
+
+section{
+	width: 1200px;
+	margin:0 auto;
+	border: solid;
+	height: 500px;
+}
+#uno{
+	margin-left: 0px;
+	margin-top: 300px;
+	width: 200px;
+	height: 200px;
+	background-color: #FF00DC;
+}
+#uno:hover{
+	margin-left: 0px;
+	margin-top: -350px;
+	width: 200px;
+	height: 350px;
+	background-color: #0070DF;
+	transition: all 3s linear;
+}
+#dos{
+	margin-left: 300px;
+	margin-top: -200px;
+	width: 200px;
+	height: 200px;
+	background-color: #7804FA;
+}
+#dos:hover{
+	margin-left: 300px;
+	margin-top: -350px;
+	width: 200px;
+	height: 350px;
+	background-color: #04A1FA;
+	transition: all 3s linear;
+}
+#tres{
+	margin-left: 600px;
+	margin-top: -200px;
+	width: 200px;
+	height: 200px;
+	background-color: #B304FA;
+}
+#tres:hover{
+	margin-left: 600px;
+	margin-top: -350px;
+	width: 200px;
+	height: 350px;
+	background-color: #0452FA;
+	transition: all 3s linear;
+}
+#cuatro{
+	margin-left: 900px;
+	margin-top: -200px;
+	width: 200px;
+	height: 200px;
+	background-color: #FA04EB;
+}
+#cuatro:hover{
+	margin-left: 900px;
+	margin-top: -350px;
+	width: 200px;
+	height: 350px;
+	background-color: #1704FA;
+	transition: all 3s linear;
+}
+footer{
+	background-color: #ccc;
+	height: 75px;
+}
